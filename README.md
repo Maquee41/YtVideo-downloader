@@ -3,7 +3,7 @@
 
 This script can download all videos from YouTube. To start you need only `yt-dlp` and `FFmpeg`
 
-## Suported Resolution
+## Supported Resolution
 
 | 2160p | 1440p | 1080p | 720p | 480p | 360p | 240p | 144p |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
