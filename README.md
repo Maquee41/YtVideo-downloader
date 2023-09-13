@@ -17,7 +17,7 @@ Check supported resolution in the quality tab (not all videos support all resolu
 ## Installation
 
 1. Create new folder. Move there `main.py`
-2. Install [FFmpeg](https://ffmpeg.org/)  If you use Windows you need only `ffmpeg.exe`. Find it in `\ffmpeg**version**\bin\` and move to a folder with main.py. If you use Linux install ffmpeg via terminal 'sudo apt install ffmpeg'
+2. Install [FFmpeg](https://ffmpeg.org/)  If you use Windows you need only `ffmpeg.exe`. Find it in `\ffmpeg**version**\bin\` and move to a folder with main.py. If you use Linux install ffmpeg via terminal `sudo apt install ffmpeg`
 3. Create virtual environment
 4. Download yt-dlp | `pip install yt-dlp`
 5. That's all. Remember! you can use it only with Python interpreter
