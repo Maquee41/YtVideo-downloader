@@ -23,7 +23,7 @@ class Programm():
 
     
     def check_width_and_height(self):
-        subprocess.call(f'ffprobe -v error -show_entries stream=width,height -of default=noprint_wrappers=1 {self.file_name}')
+        subprocess.call(f'ffmpeg -v error -show_entries stream=width,height -of default=noprint_wrappers=1 {self.file_name}')
 
     @staticmethod
     def clear_temporary():
